@@ -1,22 +1,16 @@
 {
   "chores": [
     {
-      "id": 1,
-      "title": "Wash Dishes",
-      "priority": "Importantante",
-      "duration": "15min"
+      "title": "Laundry",
+      "priority": "High",
+      "duration": "2 hours ",
+      "id": 5
     },
     {
-      "id": 3,
-      "title": "Catch Matt doing weird things",
-      "priority": "MOIs",
-      "duration": "however long it takes"
-    },
-    {
-      "title": "hi",
-      "priority": "high",
-      "duration": "1 hour",
-      "id": 4
+      "title": "Food Prep",
+      "priority": "High",
+      "duration": "30 minutes",
+      "id": 6
     }
   ]
 }
